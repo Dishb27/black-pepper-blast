@@ -351,7 +351,7 @@ const Blast = () => {
 
       // Redirect to results page
       router.push({
-        pathname: "/resultblast",
+        pathname: "/results_blast",
         query: {
           results: JSON.stringify(data.results),
           program: formData.program,
