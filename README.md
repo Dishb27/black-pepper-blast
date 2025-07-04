@@ -169,9 +169,6 @@ npm start
 
 ```
 black-pepper-blast-tool/
-├── 📁 components/
-│   ├── header.js
-│   └── footer.js
 ├── 📁 pages/
 │   ├── 📁 api/
 │   │   └── blast.js          # BLAST API endpoint
