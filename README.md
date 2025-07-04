@@ -151,7 +151,7 @@ mkdir Blast_DB
 mv Piper_nigrum_*_db.* Blast_DB/
 ```
 
-## 🟢 Running the Application
+## ⚙️ Running the Application
 
 ### Development Mode
 ```bash
