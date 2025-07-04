@@ -173,10 +173,10 @@ black-pepper-blast-tool/
 │   ├── 📁 api/
 │   │   └── blast.js          # BLAST API endpoint
 │   ├── blast.js              # Main BLAST interface
-│   └── resultblast.js        # Results display page
+│   └── results_blast.js        # Results display page
 ├── 📁 styles/
 │   ├── blast.module.css
-│   └── resultblast.module.css
+│   └── results_blast.module.css
 ├── 📁 Blast_DB/              # Your BLAST databases
 │   ├── Piper_nigrum_genome_db.*
 │   ├── Piper_nigrum_cds_db.*
