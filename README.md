@@ -138,7 +138,7 @@ makeblastdb -in Piper_nigrum_proteome.pep -dbtype prot -out Piper_nigrum_prot_db
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/black-pepper-blast-tool.git
+git clone https://github.com/Dishb27/Black-Pepper-BLAST.git
 cd black-pepper-blast-tool
 
 # Install dependencies
