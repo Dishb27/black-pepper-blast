@@ -125,13 +125,13 @@ After downloading the FASTA files, create BLAST databases:
 
 ```bash
 # Create Genome Database (for BLASTN)
-makeblastdb -in Piper_nigrum_genome.fasta -dbtype nucl -out Piper_nigrum_genome_db
+makeblastdb -in Piper_nigrum.genome.fa -dbtype nucl -out Piper_nigrum_genome_db
 
 # Create CDS Database (for BLASTN)
-makeblastdb -in Piper_nigrum_cds.fasta -dbtype nucl -out Piper_nigrum_cds_db
+makeblastdb -in Piper_nigrum.cds -dbtype nucl -out Piper_nigrum_cds_db
 
 # Create Protein Database (for BLASTP)
-makeblastdb -in Piper_nigrum_proteins.fasta -dbtype prot -out Piper_nigrum_prot_db
+makeblastdb -in Piper_nigrum_proteome.pep -dbtype prot -out Piper_nigrum_prot_db
 ```
 
 ### 5️⃣ Setup the Web Application
