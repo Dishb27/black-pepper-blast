@@ -4,7 +4,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-Latest-black.svg)](https://nextjs.org/)
 [![BLAST+](https://img.shields.io/badge/BLAST%2B-Required-blue.svg)](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
 
-> A modern web-based BLAST (Basic Local Alignment Search Tool) interface for searching Black Pepper (*Piper nigrum*) genomic sequences.
+> A web-based BLAST (Basic Local Alignment Search Tool) interface for searching Black Pepper (*Piper nigrum*) genomic sequences.
 
 ## ✨ Features
 
